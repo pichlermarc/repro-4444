@@ -5,4 +5,4 @@
 - run `npm run start`
 - No logspam is shown from the exporter
 
-If diagnostics logging is turned on, the exporter will log to the console; this is expected.
+If diagnostics logging is turned on, the exporter will log to the console; this is expected. (see index.ts, line 8)
